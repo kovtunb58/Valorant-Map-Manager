@@ -1,0 +1,1 @@
+Valorant Map Manager is a simple desktop tool for selecting and blocking maps in Valorant. Press the button to lock a card and activate the central "cube" button to randomly select from unlocked cards with animations. Fast, convenient and without unnecessary websites! ONLY FOR YOUR GAME!!!
